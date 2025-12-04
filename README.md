@@ -1,2 +1,3 @@
-# gittext1204
-練習GIT任務
+## 團隊成員
+
+- Sherry
